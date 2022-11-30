@@ -1,4 +1,4 @@
-baseURL: 'https://blog.opencloud.io/'
+baseURL: 'https://blog.opencloud.io'
 languageCode: 'en-us'
 title: 'Zamot Personal Notes'
 theme: 'beautifulhugo'

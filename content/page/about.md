@@ -11,4 +11,4 @@ I am Costa Rican-American and I follow Vedanta.
 
 This is my personal space, where I'll publish technical and personal content.
 
-<a rel="me" href="https://techhub.social/@mzamot">Mastodon</a>
+<a rel="me" href="https://opencloud.io/@michael">Follow me on Mastodon</a>
